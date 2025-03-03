@@ -2,7 +2,7 @@
   "name": "BIX Technology",
   "symbol": "BIX",
   "description": "This NFT represents BIX Technology's brand and innovation.",
-  "image": "https://drive.google.com/uc?export=download&id=1pM50isHpOLdeHKRp8UPMN67HJ-OzoiKW",
+  "image": "https://drive.google.com/uc?export=view&id=1pM50isHpOLdeHKRp8UPMN67HJ-OzoiKW",
   "attributes": [
     {
       "trait_type": "Category",
@@ -12,8 +12,8 @@
   "properties": {
     "files": [
       {
-        "uri": "https://drive.google.com/uc?export=download&id=1pM50isHpOLdeHKRp8UPMN67HJ-OzoiKW",
-        "type": "image/jpg"
+        "uri": "https://drive.google.com/uc?export=view&id=1pM50isHpOLdeHKRp8UPMN67HJ-OzoiKW",
+        "type": "image/jpeg"
       }
     ],
     "category": "image"
